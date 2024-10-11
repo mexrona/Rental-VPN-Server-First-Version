@@ -144,8 +144,8 @@ navLinkHome.addEventListener("click", function () {
 navLinkHome.click();
 
 // Lang
-const enLangId = document.getElementById("en_lang");
-const ruLangId = document.getElementById("ru_lang");
+const enLangId = document.getElementById("enLang");
+const ruLangId = document.getElementById("ruLang");
 const enLangClasses = document.querySelectorAll(".en_lang");
 const ruLangClasses = document.querySelectorAll(".ru_lang");
 const inputName = document.querySelector(".sign__item--name");
